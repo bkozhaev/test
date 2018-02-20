@@ -1,5 +1,4 @@
 class TestBody
-
   def initialize(user_name)
     @name = user_name
     @points = 0
